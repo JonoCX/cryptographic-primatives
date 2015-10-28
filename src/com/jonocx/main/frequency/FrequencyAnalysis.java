@@ -66,7 +66,7 @@ public class FrequencyAnalysis {
      * @return  String alphabet
      */
     public String getAlphabet() {
-        return new String(alphabet);
+        return alphabet;
     }
 
     /**
